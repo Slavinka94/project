@@ -2,10 +2,66 @@
 <html>
 <head>
 <title>HELPHAND</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--<link rel="stylesheet" type="text/css" href="https://github.com/Slavinka94/project/blob/master/project_Slavinka_css.css">-->
+<link rel="stylesheet" type="text/css" href="project_Slavinka_css.css">
 <script type="text/javascript" src='main.js'></script>
 </head>
 <body>
-	
+	 <header>
+	 <div style="float:left;" width: 30%;>
+	 <img src="https://github.com/Slavinka94/project/blob/master/header_ris.JPEG?raw=true">
+	 </div>
+	 <div class="cap">
+	 <div><h1>Интернет-магазин товаров и услуг "НАЗВАНИЕ"</h1></div>
+	 <div class="divHeader"><a href=""><img src="швейная_машинка.JPG" width="70%"; height="70%";  class="radius"> индивидуальный пошив </a></div>
+	 <div class="divHeader"><a href=""><img src="index171.png">постирать погладить</a></div>
+	 <div class="divHeader"><a href=""><img src="present.png" width="50%"; height="50%";>готовые изделия и подарки</a></div>
+	 </div>
+	 </header><br>
+	 <div class="clear"></div>
+<div class="fixed"> 
+<div class="table-blok"><a href="">индивидуальный пошив</a></div>
+<div class="table-blok"><a href="">готовые изделия</a></div>
+<div class="table-blok"><a href="">сопутсвующие услуги</a></div>
+</div><br><br>
+<div class="clear"></div>
+<div style="display :inline-block; border : 1px solid black;">
+	1) индивидуальный пошив постельного белья -простынь - ввести размеры - выбрать ткань - выбрать цвет ткани - добавить в корзину -пододеяльник - ввести размеры - выбрать ткань - выбрать цвет ткани - добавить в корзину -наволочка - ввести размеры - выбрать ткань - выбрать цвет ткани - добавить в корзину
 
+дополнительные опции вышивка принт
+
+информационный блок о стандартных размерах информационный блок о тканях сочетание цветов при выборе постельного белья
+
+2) готовые изделия набор постельного белья простынь пододеяльник наволочка
+
+3) хозяйственные услуги
+
+постирать
+погладить
+4) условия покупки в лизинг
+
+5) заказать в качестве подарка
+
+ОТЗЫВЫ
+
+КОНТАКТЫ
+
+ГАЛЕРЕЯ -сотрудники -готовых изделий -производственные помещения
+
+ЛИЧНЫЙ КАБИНЕТ с возможностью регистрации и идентификации через социальные сети
+
+ОТСЛЕДИТЬ ЗАКАЗ (введите номер заказа)
+
+НОВОСТИ И НОВИНКИ
+
+ЗАКАЗАТЬ ОБРАТНЫЙ ЗВОНОК
+
+ОПРОС ДЛЯ ПОСЕТИТЕЛЕЙ например : каую ткань предпочитаете ?
+
+сатин
+бязь
+шелк. результаты теста
+</div>
 </body>
 </html>
